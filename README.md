@@ -1,5 +1,5 @@
 # Hi, I'm Oana 👋
-(or Maria to some colleagues - both are my legal names 🙂‍↕️)
+(or Maria to some colleagues - both are my legal names ☺️)
 
 I am a **Data Analyst** and former **Researcher holding a PhD in neuroscience**, specializing in complex time-series analysis, speech signal processing, and EEG data pipelines. 
 
