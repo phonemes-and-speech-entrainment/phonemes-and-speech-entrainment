@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Oana 👋
 
-<!--
-**phonemes-and-speech-entrainment/phonemes-and-speech-entrainment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** and former **Researcher holding a PhD in neuroscience**, specializing in complex time-series analysis, speech signal processing, and EEG data pipelines. 
 
-Here are some ideas to get you started:
+I am currently applying my rigorous quantitative background, first-principles problem-solving, and advanced analytical toolkit to commercial data analytics roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Translating complex neurological and time-series data into actionable statistical insights.*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Core Toolchain:** `MATLAB`, `Python` (*Pandas, NumPy, Scikit-learn, SciPy, Statsmodels*), `R`, `SQL`
+* **Domains & Techniques:** Signal & Time-Series Analysis, Speech EEG Processing, Advanced Statistical Modeling, Data Visualization (*Matplotlib, Seaborn, Tableau*), Algorithmic Optimization
+* **Environment & Version Control:** `VS Code`, `Jupyter`, `Git / GitHub`
+
+---
+
+### 📂 About My Repositories
+
+The code in these repositories consists of original scripts developed for academic research and applied data projects. 
+
+All repositories contain open-source licenses—please check individual `LICENSE` files for specific reuse guidelines.
